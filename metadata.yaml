@@ -1,11 +1,16 @@
 _repo: USDA-Farmers-Bulletin-No-1935-Hemp_59625
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59625-h/images/cover.jpg
 creator:
   author:
     agent_name: Robinson, B. B.
     gutenberg_agent_id: '50539'
     url: http://www.gutenberg.org/2009/agents/50539
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59625#USDA-Farmers-Bulletin-No-1935-Hemp
 gutenberg_issued: '2019-05-28'
 gutenberg_type: Text
 identifiers:
